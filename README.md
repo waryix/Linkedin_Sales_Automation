@@ -11,7 +11,9 @@ Web-Based UI: A simple and clean single-page interface to define campaign parame
 The application is built on a modern, decoupled architecture. A vanilla HTML/CSS/JS frontend communicates with a Python backend which orchestrates the scraping and AI generation tasks
 
 
+<img width="3583" height="3840" alt="High_level_architecture" src="https://github.com/user-attachments/assets/ae423a0e-b09e-440c-9ac7-3a9202c11ee2" />
 
+END to END Flow
 
 <img width="3840" height="2221" alt="endToendFlow" src="https://github.com/user-attachments/assets/51b9e9dd-7cd8-4fab-bd8e-190c9ab2d533" />
 
