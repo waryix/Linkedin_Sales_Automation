@@ -13,6 +13,9 @@ The application is built on a modern, decoupled architecture. A vanilla HTML/CSS
 
 
 
+<img width="3840" height="2221" alt="endToendFlow" src="https://github.com/user-attachments/assets/51b9e9dd-7cd8-4fab-bd8e-190c9ab2d533" />
+
+
 
 Technologies Used:
 Frontend: HTML, Bootstrap 5, Vanilla JavaScript
